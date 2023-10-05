@@ -20,6 +20,9 @@ I have worked on several data science projects during my studies. Here are a few
 2. **Project 2**
   
 3. **Project 3**
+
+## Contact Me
+- LinkedIn : [Affan Younis](www.linkedin.com/in/affan-younis-73410a24b)
   
 
 Thank you for visiting my portfolio!
