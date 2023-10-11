@@ -5,13 +5,17 @@ Hello! I'm Affan, an enthusiastic and data-driven individual with a passion for 
 
 ## Skills
 Here are some of the key skills I've acquired during my studies and projects:
+
 - **Programming Languages:** Python
 - **Data Manipulation and Analysis:** Numpy, Pandas
 - **Data Visualization:** Matplotlib, Seaborn
-- **Machine Learning:** Scikit-Learn, Tensorflow
+- **Machine Learning:** Scikit-Learn, Tensorflow, PyTorch
+- **Natural Language Processing:** NLTK
+- **Computer Vision:** OpenCV
 - **Database Management:** MySQL
 - **Data Reporting:** Tableau, Excel
 - **Version Control:** Git
+
 
 ## Projects
 I have worked on several data science projects during my studies. Here are a few notable ones:
