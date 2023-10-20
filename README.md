@@ -1,7 +1,7 @@
-# Hi i am affan
+# Affan
 
 ## About Me
-Hello! I'm Affan, an enthusiastic and data-driven individual with a passion for leveraging data to solve real-world problems. Currently pursuing B.Tech in CSE at NIT Srinagar, I'm on a mission to apply my analytical skills and knowledge to make a meaningful impact in the field of data science.
+Hello! I'm Affan, a student pursuing B.Tech in Computer Science at NIT Srinagar. I'm passionate about using data to solve real-world problems and make a positive impact in the field of data science.
 
 ## Skills
 Here are some of the key skills I've acquired during my studies and projects:
